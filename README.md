@@ -42,6 +42,7 @@ Hi there! I’m a **Full-Stack Developer** specialized in **Mobile & Web Develop
 - 🎖 Meta Android Developer Certificate
 - 🎖 IBM AI Engineering Certificate
 - 🎖 Meta Front-End Developer Certificate
+- 🎖 Meta Android UI Development Certificate
 
 ---
 
