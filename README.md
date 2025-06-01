@@ -89,8 +89,15 @@ A fan website showcasing HTML, CSS, and Flask skills with pages like Home, About
 
 ## 🧪 Future Projects
 Other upcoming projects will integrate Artificial Intelligence concepts, including creative ideas like interactive historical map visualizations and intelligent cross-platform tools.
+---
+
+## Contact Me
+
+- **Email**: Khion2002@gmail.com  
+- **LinkedIn**: [Khayoon Alaayedi](https://www.linkedin.com/in/khayoon-a-6ab9482a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
+
 
 ## 📊 GitHub Stats & Contributions
 
