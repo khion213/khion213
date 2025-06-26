@@ -47,7 +47,8 @@ Hi there! I’m a **Full-Stack Developer** specialized in **Mobile & Web Develop
 ---
 
 ## 🎓 Current Studies
-- 📘 Bachelor’s in Electrical Engineering
+- 📘 Bachelor’s in Electrical Engineering  
+- 💼 Bachelor’s in Business Administration  
 - 🤖 Studying Artificial Intelligence
 
 ---
